@@ -23,6 +23,7 @@
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
+![zhang-charlie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhang-charlie&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 ###
 
 <h2 align="left">I code with</h2>
