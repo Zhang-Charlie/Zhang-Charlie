@@ -31,7 +31,7 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 
 
-<h1 align="left">🌐 Let's Connect: </h1>
+<h2 align="left">🌐 Let's Connect: </h2>
 
 <a href="https://linkedin.com/in/zhang-charlie" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
