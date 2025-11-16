@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="left">🚀 What I'm Up To</h1>
+<h2 align="left">🚀 What I'm Up To</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="left">💻 Tech Stack: </h1>
+<h2 align="left">💻 Tech Stack: </h2>
 
 ###
 
