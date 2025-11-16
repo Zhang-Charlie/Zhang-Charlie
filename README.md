@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">💫 About Me:</h2>
+<h2 align="left">🚀 What I'm Up To</h2>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">What I'm learning:</h2>
+<h2 align="left">🌱 I’m currently learning:</h2>
 
 ###
 
