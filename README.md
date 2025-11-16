@@ -13,15 +13,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">Learning cybersecurity on TryHackMe <br>Improving and growing my coding experience<br></p>
 
-###
-
-<h2 align="left">🌱 I’m currently learning:</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
@@ -36,8 +29,18 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 
 
-<br><br>
+<h2 align="left">🌐 Let's Connect: </h2>
+
+<a href="https://linkedin.com/in/zhang-charlie" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+
+<br/>  
+
 ###
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zhang-Charlie/Zhang-Charlie/output/pacman-contribution-graph-dark.svg">
@@ -46,9 +49,3 @@
 </picture>
 
 ###
-
-
-
-
-
-
