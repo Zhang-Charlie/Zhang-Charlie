@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Learning cybersecurity on TryHackMe <br>Improving and growing my coding experience<br></p>
+<p align="left">Currently learning cybersecurity on TryHackMe <br>Improving and growing my coding experience<br></p>
 
 
 ###
