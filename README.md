@@ -13,10 +13,8 @@
 
 <h2 align="left">🚀 What I'm Up To</h2>
 
-
-<p align="left">Currently learning cybersecurity on TryHackMe <br>Improving and growing my coding experience<br></p>
-
-
+- Currently learning cybersecurity on TryHackMe  
+- Improving and growing my coding experience
 ###
 
 <h2 align="left">💻 Tech Stack: </h2>
