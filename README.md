@@ -4,7 +4,7 @@
 
 <!-- <p align="left">My name is Charlie Zhang and I'm a Computer Science with Data Science & AI student at University College Dublin.</p> -->
 
-<p align="left"> I'm a Computer Science with Data Science & AI student at <strong>University College Dublin</strong>.<br>I'm passionate about <strong>software engineering</strong>, <strong>AI</strong>, and <strong>cybersecurity</strong>.<br>
+<p align="left"> I'm a third year Computer Science with Data Science & AI student at <strong>University College Dublin</strong>.<br>I'm passionate about <strong>software engineering</strong>, <strong>AI</strong>, and <strong>cybersecurity</strong>.<br>
   Driven by learning and a love for technology, I constantly explore new technologies and challenge my limits.</p>
 
 ###
