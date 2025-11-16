@@ -3,7 +3,7 @@
 ###
 
 <!-- <p align="left">My name is Charlie Zhang and I'm a Computer Science with Data Science & AI student at University College Dublin.</p> -->
-<h2 align="left">💫 About Me:</h2>
+<h1 align="left">💫 About Me:</h1>
 
 
 <p align="left"> I'm a third year Computer Science with Data Science & AI student at <strong>University College Dublin</strong>.<br>I'm passionate about <strong>software engineering</strong>, <strong>AI</strong>, and <strong>cybersecurity</strong>.<br>
@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">🚀 What I'm Up To</h2>
+<h1 align="left">🚀 What I'm Up To</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack: </h2>
+<h1 align="left">💻 Tech Stack: </h1>
 
 ###
 
@@ -31,7 +31,7 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 
 
-<h2 align="left">🌐 Let's Connect: </h2>
+<h1 align="left">🌐 Let's Connect: </h1>
 
 <a href="https://linkedin.com/in/zhang-charlie" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
