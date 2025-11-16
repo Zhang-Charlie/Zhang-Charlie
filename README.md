@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">What I'm learning</h2>
+<h2 align="left">What I'm learning:</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 ![zhang-charlie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhang-charlie&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with:</h2>
 
 ###
 
