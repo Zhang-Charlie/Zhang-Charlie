@@ -26,6 +26,8 @@
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Scheme](https://img.shields.io/badge/scheme-%23AA0055.svg?style=for-the-badge&logo=racket&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-%23444444.svg?style=for-the-badge)
 
 
 <h2 align="left">🌐 Let's Connect: </h2>
