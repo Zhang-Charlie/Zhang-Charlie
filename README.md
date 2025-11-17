@@ -26,6 +26,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Scheme](https://img.shields.io/badge/Scheme-%23AA0055.svg?style=for-the-badge&logo=racket&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-%23444444.svg?style=for-the-badge)
 
