@@ -31,10 +31,11 @@
   <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Scheme-%23AA0055.svg?style=for-the-badge&logo=racket&logoColor=white" />
   <img src="https://img.shields.io/badge/x86_Assembly-%23444444.svg?style=for-the-badge" />
+  
 </p>
 
 <!-- Currently learning inside Tech Stack section -->
-<p><strong>📚 Currently learning:</strong></p>
+<!-- <p><strong>📚 Currently learning:</strong></p> -->
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -42,6 +43,11 @@
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ###
