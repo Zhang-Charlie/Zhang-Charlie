@@ -6,8 +6,12 @@
 
 <p align="left">
   I'm a third year Computer Science with Data Science &amp; AI student at <strong>University College Dublin</strong>.<br>
-  I'm passionate about <strong>software engineering</strong>, <strong>AI</strong>, and <strong>cybersecurity</strong>.<br>
-  Driven by learning and a love for technology, I constantly explore new technologies and challenge my limits.
+  
+  My main interests are <strong>backend engineering</strong>, <strong>distributed systems</strong> and <strong>security</strong>.<br>
+  
+  I enjoy building reliable systems, solving technical problems and improving how software works at scale.<br>
+  
+  I also contribute to open source projects including <strong>Red Hat WildFly Elytron</strong>, <strong>Linux Foundation a2a-java</strong> and <strong>Microsoft Azure Docs</strong>.
 </p>
 
 ###
