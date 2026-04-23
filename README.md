@@ -18,8 +18,11 @@
 
 <h2 align="left">🚀 What I'm Up To</h2>
 
+- Building backend projects with Java and Python  
+- Contributing to open source software  
+- Learning more about distributed systems and scalable architecture  
+- Improving problem solving and technical interview skills
 - Currently learning cybersecurity on TryHackMe  
-- Improving and growing my coding experience  
 
 ###
 
