@@ -5,13 +5,11 @@
 <h1 align="left">💫 About Me:</h1>
 
 <p align="left">
-  I'm a third year Computer Science with Data Science &amp; AI student at <strong>University College Dublin</strong>.<br>
-  
-  My main interests are <strong>backend engineering</strong>, <strong>distributed systems</strong> and <strong>security</strong>.<br>
-  
-  I enjoy building reliable systems, solving technical problems and improving how software works at scale.<br>
-  
+  I'm a third year Computer Science with Data Science &amp; AI student at <strong>University College Dublin</strong>.<br><br>
+  My main interests are <strong>backend engineering</strong>, <strong>distributed systems</strong>, <strong>security</strong>, <strong>cloud infrastructure</strong> and building <strong>reliable systems at scale</strong>.<br><br>
+  I enjoy solving technical problems and improving how software works in real-world environments.<br><br>
   I also contribute to open source projects including <strong>Red Hat WildFly Elytron</strong>, <strong>Linux Foundation a2a-java</strong> and <strong>Microsoft Azure Docs</strong>.
+  
 </p>
 
 ###
